@@ -1,0 +1,25 @@
+# Core numerical and data handling
+numpy
+pandas
+scipy
+pyarrow
+duckdb
+
+# Machine learning
+scikit-learn
+joblib
+
+# Deep learning and NLP / Transformers
+torch
+transformers
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook and progress display
+ipython
+tqdm
+
+# System resource monitoring
+psutil
